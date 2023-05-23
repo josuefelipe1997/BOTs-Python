@@ -3,4 +3,4 @@ selecionada de aldeias de forma automatica.
 
 As bibliotecas utilizadas nesse projeto foram:
 
-Time, Pandas, Selenium
+Time, Pandas e Selenium
