@@ -6,11 +6,4 @@ esses dados são inseridos em um banco de dados pelo proprio código. Cada dado 
 
 As bibliotecas utilizadas nesse projeto foram:
 
-Pyautogui
-Pandas
-MySql Connector
-Numpy
-Loggin
-Datetime
-TQDM
-Selenium
+Pyautogui, Pandas, MySql Connector, Numpy, Loggin, Datetime, TQDM, Selenium
